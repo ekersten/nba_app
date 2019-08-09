@@ -5,7 +5,7 @@ class ArticleComponent extends Component {
     render() {
         return (
             <View>
-                <Text>Hello I am the news</Text>
+                <Text>Hello I am the news article</Text>
             </View>
         );
     }
